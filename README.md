@@ -1,2 +1,2 @@
 # FindNextNumber
-Puzzle game in javascript
+Puzzle game in html-css-javascript
